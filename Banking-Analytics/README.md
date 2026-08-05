@@ -1,1 +1,1 @@
-
+An end-to-end Banking Analytics project that leverages SQL, Excel, Tableau, and Power BI to transform raw loan data into actionable insights. The project includes data cleaning, analysis, KPI reporting, and interactive dashboards focused on loan performance and customer behavior.
