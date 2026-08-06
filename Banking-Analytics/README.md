@@ -34,3 +34,17 @@ This project analyzes banking loan data to identify customer trends, loan perfor
 ## Business Insights
 
 The analysis helps financial institutions monitor loan performance, identify high-risk segments, and support data-driven lending decisions.
+
+## Dashboard Preview
+
+### Excel Dashboard
+
+![Excel Dashboard](Images/Excel_Dashboard.PNG) 
+
+### Power BI Dashboard
+
+![Power BI Dashboard](Images/PowerBI_Dashboard.png)
+
+### Tableau Dashboard
+
+![Tableau Dashboard](Images/Tableau_Dashboard.png)
