@@ -37,8 +37,8 @@ The analysis identifies customer purchasing patterns, high-performing product ca
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](Images/PowerBI_Dashboard.png)
+![Power BI Dashboard](Images/PowerBI_Dashboard.PNG)
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](Images/Tableau_Dashboard.png)
+![Tableau Dashboard](Images/Tableau_Dashboard.PNG)
