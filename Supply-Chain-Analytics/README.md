@@ -22,7 +22,7 @@ This project analyzes supply chain operations to improve efficiency, optimize in
 
 ### Excel Dashboard
 
-![Excel Dashboard](Images/Excel_Dashboard.png) 
+![Excel Dashboard](Images/Excel_Dashboard.PNG) 
 
 ### Power BI Dashboard
 
