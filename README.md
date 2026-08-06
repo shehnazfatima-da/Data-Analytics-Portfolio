@@ -1,2 +1,2 @@
 # Data-Analytics-Portfolio
-A collection of Data Analytics projects using SQL, Excel, Power BI, Tableau, and Python.
+A collection of Data Analytics projects using SQL, Excel, Power BI, and Tableau.
