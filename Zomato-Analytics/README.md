@@ -65,3 +65,19 @@ This project analyzes Zomato restaurant data to uncover insights into restaurant
 ## 🎯 Outcome
 
 This project demonstrates an end-to-end analytics workflow, from data cleaning and SQL analysis to interactive dashboards and business insights using multiple visualization tools.
+
+---
+
+## Dashboard Preview
+
+### Excel Dashboard
+
+![Excel Dashboard](Images/Excel_Dashboard.PNG) 
+
+### Power BI Dashboard
+
+![Power BI Dashboard](Images/PowerBI_Dashboard.png)
+
+### Tableau Dashboard
+
+![Tableau Dashboard](Images/Tableau_Dashboard.png)
