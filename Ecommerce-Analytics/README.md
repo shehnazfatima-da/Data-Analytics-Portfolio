@@ -4,13 +4,6 @@
 
 This project analyzes e-commerce sales, customer behavior, product performance, and payment trends using SQL, Excel, Tableau, and Power BI. It transforms raw transactional data into interactive dashboards that provide actionable business insights for improving sales and customer experience.
 
-## Tools Used
-
-- MySQL
-- Microsoft Excel
-- Power BI
-- Tableau
-
 ## Skills Demonstrated
 
 - Data Cleaning
@@ -35,3 +28,17 @@ This project analyzes e-commerce sales, customer behavior, product performance, 
 ## Business Insights
 
 The analysis identifies customer purchasing patterns, high-performing product categories, preferred payment methods, and delivery performance, enabling businesses to optimize operations and enhance customer satisfaction.
+
+## Dashboard Preview
+
+### Excel Dashboard
+
+![Excel Dashboard](Images/Excel_Dashboard.PNG) 
+
+### Power BI Dashboard
+
+![Power BI Dashboard](Images/PowerBI_Dashboard.png)
+
+### Tableau Dashboard
+
+![Tableau Dashboard](Images/Tableau_Dashboard.png)
