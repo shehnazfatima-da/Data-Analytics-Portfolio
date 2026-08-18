@@ -35,4 +35,5 @@ This project analyzes supply chain operations to improve efficiency, optimize in
 ### SQL Queries 
 
 ![SQL Queries](Images/SQL_Queries_1.PNG)
+
 ![SQL Queries](Images/SQL_Queries_2.PNG)
